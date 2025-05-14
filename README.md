@@ -31,21 +31,6 @@ Comparative performance analysis by demographic features
 
 Insightful summary statistics
 
-🚀 Getting Started
-Prerequisites
-Make sure you have Python and the following libraries installed:
-
-bash
-Copy
-Edit
-pip install pandas matplotlib seaborn notebook
-Run the Notebook
-bash
-Copy
-Edit
-jupyter notebook Student_Performance.ipynb
-📁 Dataset
-The dataset used for analysis is likely sourced from public educational datasets (e.g., Kaggle). Ensure to include or link to the dataset if it's not embedded in the notebook.
 
 📌 Use Cases
 Educational insights for policy makers
